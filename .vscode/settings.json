@@ -1,0 +1,5 @@
+{
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop":false,
+    "php.validate.executablePath": "c:/xampp/php/php.exe"
+}
